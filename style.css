@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:white;
+    margin: 0;
+    padding: 20px;
+}
+
+.quiz-container {
+    background: purple;
+    border-radius: 40px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.question {
+    margin-bottom: 20px;
+    color: white;
+}
+
+label {
+    display: flex;
+    margin: 30px 0;
+    color: white;
+}
+#submit{
+    background-color:khaki;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    border-radius: 10px;
+   
+    
+    
+
+}
